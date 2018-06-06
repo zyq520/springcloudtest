@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="costomer" />
+        <module name="EurekaServer_1" />
+        <module name="EurekaServer_2" />
+        <module name="EurekaServer_config" />
+        <module name="EurekaServer_config_client" />
+        <module name="EurekaZuul" />
+        <module name="hystrix_dashboard" />
+        <module name="producer" />
+        <module name="producer2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="costomer" target="1.7" />
+      <module name="EurekaServer_1" target="1.7" />
+      <module name="EurekaServer_2" target="1.7" />
+      <module name="EurekaServer_config" target="1.7" />
+      <module name="EurekaServer_config_client" target="1.7" />
+      <module name="EurekaZuul" target="1.7" />
+      <module name="hystrix_dashboard" target="1.7" />
+      <module name="producer" target="1.7" />
+      <module name="producer2" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

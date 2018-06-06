@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/EurekaServer_1" />
+    <file type="web" url="file://$PROJECT_DIR$/EurekaServer_2" />
+    <file type="web" url="file://$PROJECT_DIR$/EurekaServer_config" />
+    <file type="web" url="file://$PROJECT_DIR$/EurekaServer_config_client" />
+    <file type="web" url="file://$PROJECT_DIR$/EurekaServerCustomer" />
+    <file type="web" url="file://$PROJECT_DIR$/EurekaServerCustomer_hystrix_dashboard" />
+    <file type="web" url="file://$PROJECT_DIR$/EurekaServerProducer" />
+    <file type="web" url="file://$PROJECT_DIR$/EurekaServerProducer2" />
+    <file type="web" url="file://$PROJECT_DIR$/EurekaZuul" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/EurekaZuul/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer_1/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer_2/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer_config/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer_config_client/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServerCustomer/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServerCustomer_hystrix_dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServerProducer/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServerProducer2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

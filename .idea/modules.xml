@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer_1/EurekaServer_1.iml" filepath="$PROJECT_DIR$/EurekaServer_1/EurekaServer_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer_2/EurekaServer_2.iml" filepath="$PROJECT_DIR$/EurekaServer_2/EurekaServer_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer_config/EurekaServer_config.iml" filepath="$PROJECT_DIR$/EurekaServer_config/EurekaServer_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer_config_client/EurekaServer_config_client.iml" filepath="$PROJECT_DIR$/EurekaServer_config_client/EurekaServer_config_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaZuul/EurekaZuul.iml" filepath="$PROJECT_DIR$/EurekaZuul/EurekaZuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServerCustomer/costomer.iml" filepath="$PROJECT_DIR$/EurekaServerCustomer/costomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServerCustomer_hystrix_dashboard/hystrix_dashboard.iml" filepath="$PROJECT_DIR$/EurekaServerCustomer_hystrix_dashboard/hystrix_dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServerProducer/producer.iml" filepath="$PROJECT_DIR$/EurekaServerProducer/producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServerProducer2/producer2.iml" filepath="$PROJECT_DIR$/EurekaServerProducer2/producer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloudtest.iml" filepath="$PROJECT_DIR$/.idea/springcloudtest.iml" />
+    </modules>
+  </component>
+</project>

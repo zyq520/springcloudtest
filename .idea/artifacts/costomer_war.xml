@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="costomer:war">
+    <output-path>$PROJECT_DIR$/EurekaServerCustomer/target</output-path>
+    <root id="archive" name="EurekaServer.war">
+      <element id="artifact" artifact-name="costomer:war exploded" />
+    </root>
+  </artifact>
+</component>
