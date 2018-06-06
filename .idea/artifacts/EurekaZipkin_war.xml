@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EurekaZipkin:war">
+    <output-path>$PROJECT_DIR$/EurekaZipkin/target</output-path>
+    <root id="archive" name="EurekaZipkin.war">
+      <element id="artifact" artifact-name="EurekaZipkin:war exploded" />
+    </root>
+  </artifact>
+</component>
