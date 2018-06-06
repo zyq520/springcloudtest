@@ -9,6 +9,7 @@
     <file type="web" url="file://$PROJECT_DIR$/EurekaServerCustomer_hystrix_dashboard" />
     <file type="web" url="file://$PROJECT_DIR$/EurekaServerProducer" />
     <file type="web" url="file://$PROJECT_DIR$/EurekaServerProducer2" />
+    <file type="web" url="file://$PROJECT_DIR$/EurekaZipkin" />
     <file type="web" url="file://$PROJECT_DIR$/EurekaZuul" />
   </component>
   <component name="MavenProjectsManager">
@@ -23,6 +24,7 @@
         <option value="$PROJECT_DIR$/EurekaServerCustomer_hystrix_dashboard/pom.xml" />
         <option value="$PROJECT_DIR$/EurekaServerProducer/pom.xml" />
         <option value="$PROJECT_DIR$/EurekaServerProducer2/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaZipkin/pom.xml" />
       </list>
     </option>
   </component>

@@ -11,6 +11,7 @@
         <module name="EurekaServer_2" />
         <module name="EurekaServer_config" />
         <module name="EurekaServer_config_client" />
+        <module name="EurekaZipkin" />
         <module name="EurekaZuul" />
         <module name="hystrix_dashboard" />
         <module name="producer" />
@@ -23,6 +24,7 @@
       <module name="EurekaServer_2" target="1.7" />
       <module name="EurekaServer_config" target="1.7" />
       <module name="EurekaServer_config_client" target="1.7" />
+      <module name="EurekaZipkin" target="1.7" />
       <module name="EurekaZuul" target="1.7" />
       <module name="hystrix_dashboard" target="1.7" />
       <module name="producer" target="1.7" />

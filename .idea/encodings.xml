@@ -9,6 +9,7 @@
     <file url="file://$PROJECT_DIR$/EurekaServer_2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/EurekaServer_config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/EurekaServer_config_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaZipkin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/EurekaZuul" charset="UTF-8" />
   </component>
 </project>

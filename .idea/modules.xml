@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/EurekaServer_2/EurekaServer_2.iml" filepath="$PROJECT_DIR$/EurekaServer_2/EurekaServer_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaServer_config/EurekaServer_config.iml" filepath="$PROJECT_DIR$/EurekaServer_config/EurekaServer_config.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaServer_config_client/EurekaServer_config_client.iml" filepath="$PROJECT_DIR$/EurekaServer_config_client/EurekaServer_config_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaZipkin/EurekaZipkin.iml" filepath="$PROJECT_DIR$/EurekaZipkin/EurekaZipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaZuul/EurekaZuul.iml" filepath="$PROJECT_DIR$/EurekaZuul/EurekaZuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaServerCustomer/costomer.iml" filepath="$PROJECT_DIR$/EurekaServerCustomer/costomer.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaServerCustomer_hystrix_dashboard/hystrix_dashboard.iml" filepath="$PROJECT_DIR$/EurekaServerCustomer_hystrix_dashboard/hystrix_dashboard.iml" />
